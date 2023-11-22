@@ -14,6 +14,6 @@ My research interests revolve around **AI-mediated communication**, **VR and ava
 
 I am collaborating with [Professor Rui Wang](https://scholar.google.com/citations?user=JTCpAtYAAAAJ) on a research paper exploring the impact of social bots on Twitter discussions regarding U.S. abortion legislation. Additionally, I am a member of Professor Jingxi Chen's 'Intelligent Media and Health Communication' research group, where we are in the process of designing an Interactive WeChat Mini-program aimed at providing experiential pregnancy knowledge.
 
-I am honored to be selected as one of the few worldwide recipients of the $1,250 **Hailey Travel Grant** for the 73rd Annual Conference of the ICA. It was there that I had the fortune to meet [Professor Robby](https://comartsci.msu.edu/our-people/rabindra-ratan)and many other researchers and doctoral students, who provided invaluable assistance in my Ph.D. application process.
+I am honored to be selected as one of the few worldwide recipients of the $1,250 **Hailey Travel Grant** for the 73rd Annual Conference of the ICA. It was there that I had the fortune to meet [Professor Robby](https://comartsci.msu.edu/our-people/rabindra-ratan) and many other researchers and doctoral students, who provided invaluable assistance in my Ph.D. application process.
 
 As a devoted fan of the **Transformers** science fiction series for ten years, I have always been fascinated by the interactions between humans and machine intelligence, and am keen to bridge my avocation with academic exploration.
