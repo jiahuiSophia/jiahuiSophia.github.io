@@ -12,11 +12,14 @@ main:
   - title: "Research"
     url: /cv/
 
-- title: "Grants & Scholarships"
+  - title: "Grants & Scholarships"
     url: /cv/
     
   - title: "Social Involvement"
     url: /markdown/
+
+  - title: "CV"
+    url: /cv/
 
   - title: "Updates"
     url: /cv/
