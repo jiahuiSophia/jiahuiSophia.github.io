@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jiahui Liu"
-  avatar           : "jiahuisophia.github.io/images/avatar_jiahui.jpg"
+  avatar           : ![](https://github.com/jiahuiSophia/jiahuiSophia.github.io/blob/master/images/avatar_jiahui.jpg)
   bio              : "Your biography for the left-hand sidebar"
   location         : "Beijing"
   employer         :
