@@ -3,9 +3,6 @@ permalink: /
 title: "About me"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 Hi there! I am a second-year Master's student majoring in Communication at the [Communication University of China](https://en.cuc.edu.cn/). I am actively applying for Ph.D. programs and seeking research assistant positions. 
