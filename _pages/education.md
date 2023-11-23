@@ -14,6 +14,6 @@ Coursework: Deception and Technology (A+/A+), Intro to Virtual Reality and Avata
 
 ![image](https://github.com/jiahuiSophia/jiahuiSophia.github.io/blob/master/images/VR1.jpg)
 
-![image](images/VR2.jpg)
+![image](https://github.com/jiahuiSophia/jiahuiSophia.github.io/blob/master/images/VR2.jpg)
 
 ![image](images/michelle&qiu.jpg)
