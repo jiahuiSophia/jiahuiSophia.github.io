@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+"deer.jpg"
+
 Hi there! I am a second-year Master's student majoring in Communication at the [Communication University of China](https://en.cuc.edu.cn/). I am actively applying for Ph.D. programs and seeking research assistant positions. 
 
 My research interests revolve around **AI-mediated communication**, **VR and avatars**, and **media psychology**. During my Ph.D., I aim to explore the psychological mechanisms and social impacts of **deception in Avatar-Mediated Communication** (AMC). This will encompass three main research themes: understanding how individuals perceive deception in AMC, identifying factors that influence detecting deception in AMC, and developing strategies to debunk and counter deception in AMC.
