@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-"deer.jpg"
+![image](https://github.com/jiahuiSophia/jiahuiSophia.github.io/blob/master/images/deer.jpg)
 
 Hi there! I am a second-year Master's student majoring in Communication at the [Communication University of China](https://en.cuc.edu.cn/). I am actively applying for Ph.D. programs and seeking research assistant positions. 
 
