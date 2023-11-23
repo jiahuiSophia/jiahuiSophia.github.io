@@ -15,3 +15,5 @@ Coursework: Deception and Technology (A+/A+), Intro to Virtual Reality and Avata
 ![image](images/VR1.jpg)
 
 ![image](images/VR2.jpg)
+
+![image](images/michelle&qiu.jpg)
