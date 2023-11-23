@@ -13,4 +13,6 @@ Abstract: With the rise of short videos, social media platforms have expanded in
 
 Works in progress
 ======
-***Liu, J.**, Ma, C., Wang, R. (under major revision). Amplifying Contention or Promoting Feminism? Topic Construction and Human-Bot Interaction on Twitter around the Overturning of Roe v. Wade. Submitted to _Computers in Human Behavior_.
+1. **Liu, J.**, Ma, C., Wang, R. (under major revision). Amplifying Contention or Promoting Feminism? Topic Construction and Human-Bot Interaction on Twitter around the Overturning of Roe v. Wade. Submitted to _Computers in Human Behavior_.
+
+Abstract: 
