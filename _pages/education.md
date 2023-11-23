@@ -12,6 +12,6 @@ author_profile: true
 **Stanford University 2023 Summer Session**, June 2023 - Aug. 2023  
 Coursework: Deception and Technology (A+/A+), Intro to Virtual Reality and Avatars (A+/A+), Digital Media and Personalization (A/A)
 
-![image](VR1.jpg)
+![image](images/VR1.jpg)
 
-![image](VR2.jpg)
+![image](images/VR2.jpg)
