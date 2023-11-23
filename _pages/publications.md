@@ -3,6 +3,8 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
+redirect_from:
+  - /publications
 ---
 
 Wang, X., **Liu, J.** (2021). A Research on the Platform-based Governance of Short Video Social Media: from the Perspective of Social Participation of Diverse Groups. _Southeast Communication,_ 2021(10):40-43. (in Chinese)
