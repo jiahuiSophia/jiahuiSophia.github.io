@@ -5,6 +5,8 @@ permalink: /conference papers/
 author_profile: true
 ---
 
+![image4](images/ICAcm.jpg)
+
 1. **Liu, J.**, Li, D., Chen, J. (2023). How Human Identity Transcends Machines: Techno-Ethics of Generative Artificial Intelligence from the Critical Cybernetics Perspective. Presented at the _2023 Media Culture Forum_, Shanghai, China. (in Chinese)
    - Abstract: What makes us human, and how do we transcend machines? This article explores the importance of human identity in the context of the continuous rise of generative artificial intelligence. The article first introduces the historical evolution of human-machine language interaction technology and the technical composition of this revolutionary language interaction model, ChatGPT. Secondly, from a critical perspective on cybernetics, the article posits that the unique identity inherent in humans is the key to what defines us as humans. This identity encompasses consciousness and subjective experiences, emotional perception and resonance, morality and ethics, self-shaping, and development. The article also discusses the technological limitations of generative artificial intelligence and calls for a rational approach to the future of human-machine symbiosis.
 
