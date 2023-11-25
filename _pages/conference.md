@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "Conference Papers"
+excerpt: "Conference Papers"
 permalink: /conference papers/
 author_profile: true
 ---
