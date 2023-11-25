@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /
+permalink: /education/
 title: "Education"
 author_profile: true
 ---
