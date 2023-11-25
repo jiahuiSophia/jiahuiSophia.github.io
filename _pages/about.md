@@ -13,6 +13,7 @@ Hi there! I am a second-year Master's student majoring in Communication at the [
 My research interests revolve around **AI-mediated communication**, **VR and avatars**, and **media psychology**. During my Ph.D., I aim to explore the psychological mechanisms and social impacts of **deception in Avatar-Mediated Communication** (AMC). This will encompass three main research themes: understanding how individuals perceive deception in AMC, identifying factors that influence detecting deception in AMC, and developing strategies to debunk and counter deception in AMC.
 
 ![image](images/deer.jpg)
+![image](images/VR1.jpg)
 
 Currently, I am collaborating with [Professor Rui Wang](https://scholar.google.com/citations?user=JTCpAtYAAAAJ) on a research paper exploring the impact of social bots on Twitter discussions regarding U.S. abortion legislation. Additionally, I am a member of Professor Jingxi Chen's Intelligent Media and Health Communication research group, where we are in the process of designing an Interactive WeChat Mini-program aimed at providing experiential pregnancy knowledge.
 
