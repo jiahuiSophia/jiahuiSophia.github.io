@@ -1,8 +1,8 @@
 ---
 layout: archive
+permalink: /grantsandscholarships/
 title: "Grants & Scholarships"
 excerpt: "Grants & Scholarships"
-permalink: /Grants & Scholarships/
 author_profile: true
 ---
 
