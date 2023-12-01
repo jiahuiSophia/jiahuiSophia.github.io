@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-You can find my CV here: [Jiahui Liu's CV](..assets/CV_Jiahui Liu.pdf)
+You can find my CV here: [Jiahui Liu's CV](assets/CV_Jiahui Liu.pdf)
