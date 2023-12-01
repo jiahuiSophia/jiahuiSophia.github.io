@@ -2,7 +2,7 @@
 layout: archive
 title: "Grants & Scholarships"
 excerpt: "Grants & Scholarships"
-permalink: /grants/
+permalink: /Grants & Scholarships/
 author_profile: true
 ---
 
